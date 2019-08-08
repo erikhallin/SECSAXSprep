@@ -1,0 +1,13 @@
+AutoRg:
+  Rg  stdev       I(0)   Guinier points  Quality  File
+ 28.37   2%     0.0951   36 - 174 (139)    67%    sample_avg.dat
+
+datgnom:
+ Random seed is:   1311776374
+ Dmax =    90.784000000000006       Total =   0.90039659457309751     
+ Guinier =    28.370000000000001       Gnom =    28.066674159597405     
+
+datporod:
+  Rg            I(0)          Porod Volume  File
+  0.280700E+02  0.946100E-01  0.103961E+06  output\sample_avg.out
+

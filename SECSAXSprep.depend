@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1488978843 source:e:\cpp\saxs\secsaxsprep\main.cpp
+	<windows.h>
+	<iostream>
+	<dirent.h>
+	<string>
+	<vector>
+	<sstream>
+	<fstream>
+	<numeric>
+	<functional>
+	<math.h>
+
